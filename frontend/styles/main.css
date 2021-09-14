@@ -1,0 +1,2568 @@
+.top-bar {
+  background-color: #64a4e0;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top-bar .kontak {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.top-bar .sosmed {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+nav .navbar-brand {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+nav .btn-kode {
+  background-color: #64a4e0;
+  color: white;
+}
+
+nav .btn-kode:hover {
+  opacity: 0.6;
+}
+
+nav ul .active {
+  font-weight: bold !important;
+  border-bottom: 1px solid black;
+}
+
+.judul .heading-judul {
+  color: #64a4e0;
+}
+
+.judul .heading-judul h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+.judul .heading-content .item-melayani {
+  margin-top: 30px;
+}
+
+.judul .heading-content .item-melayani h6 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.judul .heading-content .item-melayani:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  border-radius: none;
+}
+
+.promo {
+  background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(#64a4e01e), to(white));
+  background: linear-gradient(white, #64a4e01e, white);
+  padding-bottom: 30px;
+  margin-top: 60px;
+}
+
+.promo .judul-promo h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: red;
+}
+
+.promo .promo-items {
+  min-height: 430px;
+  margin-top: 30px;
+}
+
+.promo .promo-items img {
+  border-radius: 5px;
+}
+
+.promo .promo-items .promo-heading h4 {
+  margin-top: 15px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.promo .promo-items .promo-content {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px;
+}
+
+.promo .promo-items .btn-promo a {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.promo .promo-items .btn-promo a:hover {
+  opacity: 0.6;
+}
+
+.kenapa-kami {
+  margin-top: 40px;
+}
+
+.kenapa-kami h1 {
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+}
+
+.kenapa-kami .kenapa-kami-content .kenapa-kami-items {
+  margin-top: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.kenapa-kami .kenapa-kami-content .kenapa-kami-items h3 {
+  font-weight: bold;
+}
+
+.kenapa-kami .kenapa-kami-content .kenapa-kami-items p {
+  font-size: 19px;
+}
+
+.harga-rental {
+  padding: 30px 0px;
+  background: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(#64a4e01e), to(white));
+  background: linear-gradient(white, #64a4e01e, white);
+  margin-top: 30px;
+}
+
+.harga-rental .harga-rental-heading .belakang {
+  color: #4299fd;
+}
+
+.harga-rental h4 {
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #64a4e0;
+  display: inline-block;
+}
+
+.harga-rental .link-rental {
+  text-decoration: none;
+}
+
+.harga-rental .rental-item {
+  background-color: white;
+  border: 1px solid #01dada;
+  padding: 0 5px;
+  border-radius: 7px;
+  min-height: 300px;
+  margin-top: 30px;
+}
+
+.harga-rental .rental-item img {
+  border-radius: 5px;
+}
+
+.harga-rental .rental-item .card-title {
+  font-family: "Barlow Condensed", sans-serif;
+  margin-top: 8px;
+}
+
+.harga-rental .rental-item:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+  -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+          box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.snk {
+  margin-top: 50px;
+}
+
+.paket-wisata-utama {
+  margin-top: 30px;
+}
+
+.paket-wisata-utama .paket-wisata-heading {
+  margin-bottom: 30px;
+}
+
+.paket-wisata-utama .paket-wisata-heading h2 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.paket-wisata-utama .paket-wisata-heading h6 {
+  font-weight: lighter;
+}
+
+.paket-wisata-utama .paket-wisata-content .card-wisata:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  -webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.paket-wisata-utama .paket-wisata-content .card-wisata {
+  margin-top: 15px;
+  min-height: 400px;
+}
+
+.paket-wisata-utama .paket-wisata-content .card-wisata .card-body h5 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #013697;
+  text-align: center;
+}
+
+.paket-wisata-utama .paket-wisata-content .card-wisata .card-body p {
+  font-family: "Barlow Condensed", sans-serif;
+  text-align: justify;
+}
+
+.paket-wisata-utama .paket-wisata-content .card-wisata .card-body .fasilitas {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata {
+  margin-top: 30px;
+}
+
+.paket-wisata .paket-wisata-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata .paket-wisata-heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.paket-wisata .paket-wisata-content {
+  margin-top: 30px;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata {
+  margin-top: 20px;
+  border: 2px solid #64a4e0;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata .card-title {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata .card-title h3 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata .card-fasilitas {
+  padding: 0px 10px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 17px;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata .card-fasilitas i {
+  color: #ff7b00;
+}
+
+.paket-wisata .paket-wisata-content a .card-paket-wisata:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.temui-kami {
+  margin-top: 30px;
+}
+
+.temui-kami .temui-kami-content .temui-kami-item h5 {
+  font-family: "Barlow Condensed", sans-serif;
+  border-bottom: 2px solid #64a4e0;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: #64a4e0;
+  height: 80px;
+  line-height: 80px;
+  color: white;
+}
+
+.pesan-rental .pesan-rental-content a {
+  background-color: #01dada;
+  color: white;
+}
+
+.pesan-rental .pesan-rental-content a:hover {
+  opacity: 0.6;
+}
+
+.paket-wisata-jogja .paket-wisata-heading h3 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.paket-wisata-jogja .paket-wisata-content {
+  margin-top: 30px;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama h4 {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .btn-paket-wisata-mandiri {
+  background-color: #01dada;
+  color: white;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .btn-paket-wisata-mandiri:hover {
+  opacity: 0.6;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item {
+  min-height: 670px;
+  margin: 20px 0px;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item a {
+  text-decoration: none;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body {
+  padding: 10px 5px;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body h5 {
+  text-align: center;
+  color: #01dada;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body .destinasi-heading {
+  border-bottom: 2px solid #01dada;
+  display: inline-block;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body .destinasi-item {
+  margin-top: -10px;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body .destinasi-item ul {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body .btn-destinasi a {
+  background-color: #01dada;
+  color: white;
+}
+
+.paket-wisata-jogja .paket-wisata-content .list-wisata-utama .list-wisata-item .card-body .btn-destinasi a:hover {
+  opacity: 0.6;
+}
+
+.pesan-rental .pesan-rental-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-rental .pesan-rental-heading h2 {
+  font-weight: bold;
+  color: #01dada;
+}
+
+.pesan-rental .pesan-rental-content .destinasi h6 {
+  border-bottom: 3px solid #01dada;
+}
+
+.pesan-rental .pesan-rental-content .destinasi img {
+  border-radius: 5px;
+}
+
+.pesan-rental .pesan-rental-content .destinasi p {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-rental .pesan-rental-content .pilihan-paket h6 {
+  border-bottom: 3px solid #01dada;
+}
+
+.pesan-rental .pesan-rental-content .card-pilihan-paket {
+  border: 2px solid #01dada;
+  border-radius: 5px;
+  padding: 5px 5px;
+  margin-top: 20px;
+}
+
+.pesan-rental .pesan-rental-content .card-pilihan-paket .card-body {
+  padding: 0px 0px;
+}
+
+.pesan-rental .pesan-rental-content .card-pilihan-paket .card-body h6 {
+  border-bottom: 2px solid #01dada;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+}
+
+.pesan-rental .pesan-rental-content .card-pilihan-paket .card-body .data-kendaraan-detail {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-rental .pesan-rental-content .card-pilihan-paket .card-body .harga-paket-detail {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.rental-mobil-mewah {
+  margin-bottom: 60px;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-heading h1 {
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content {
+  margin-top: 30px;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah {
+  margin-top: 20px;
+  min-height: 750px;
+  border: 3px solid #64a4e0;
+  border-radius: 10px;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-title h4,
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-title p {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-title h4 {
+  font-weight: bold;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-body {
+  font-family: "Barlow Condensed", sans-serif;
+  margin-top: -30px;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-body h5 {
+  font-weight: bold;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-body .btn-mobil-mewah a {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.rental-mobil-mewah .rental-mobil-mewah-content .card-rental-mobil-mewah .card-body .btn-mobil-mewah a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.pesan-rental-mobil-mewah {
+  margin-top: 40px;
+}
+
+.pesan-rental-mobil-mewah .pesan-rental-mobil-mewah-heading h4 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.pesan-rental-mobil-mewah .mewah-content .nama-mobil-mewah p {
+  color: #64a4e0;
+}
+
+.pesan-rental-mobil-mewah .mewah-harga .table-diy .diy {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.pesan-rental-mobil-mewah .mewah-harga .table-diy .diy-body a {
+  background-color: #64a4e0;
+  color: white !important;
+}
+
+.pesan-rental-mobil-mewah .mewah-harga .table-diy-luar .diy-luar {
+  background-color: #fc4545;
+  color: white;
+}
+
+.pesan-rental-mobil-mewah .mewah-harga .table-diy-luar .diy-luar-body a {
+  background-color: #fc4545;
+  color: white !important;
+}
+
+.top-bar-wedding {
+  background-color: #f82ca3;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top-bar-wedding .kontak {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.top-bar-wedding .sosmed {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.wedding-car .wedding-car-heading {
+  margin-bottom: 40px;
+}
+
+.wedding-car .wedding-car-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #f82ca3;
+}
+
+.wedding-car .wedding-car-content {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car {
+  margin-top: 10px;
+  min-height: 420px;
+  border-radius: 10px;
+  border: 2px solid #f82ca3;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car img {
+  border-radius: 10px;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car .card-title {
+  margin-top: 10px;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car .card-title h4 {
+  color: #f82ca3;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car .card-body {
+  margin-top: -20px;
+}
+
+.wedding-car .wedding-car-content .card-wedding-car .btn-wedding-car {
+  background-color: #f82ca3;
+  color: white;
+  font-size: 18px;
+}
+
+.pernikahan {
+  margin-top: 50px;
+}
+
+.pernikahan h5 {
+  color: #f82ca3;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.pernikahan .konsultasi h3 {
+  color: #f82ca3;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.pernikahan .konsultasi a {
+  background-color: #f82ca3;
+  color: white;
+}
+
+.top-bar-sewa-bus {
+  height: 50px;
+  line-height: 50px;
+  background-color: #ff7b00;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+}
+
+.bus {
+  margin-top: 50px;
+}
+
+.bus .bus-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.bus .bus-content {
+  margin-top: 50px;
+}
+
+.bus .bus-content .card-bus:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+  -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+          box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.daftar-bus {
+  margin-top: 50px;
+}
+
+.daftar-bus .daftar-bus-heading {
+  text-align: center;
+}
+
+.daftar-bus .daftar-bus-content {
+  margin-top: 25px;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border: 2px solid #64a4e0;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-title {
+  padding: 5px 5px;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-title h4 {
+  border-bottom: 1px solid #64a4e0;
+  display: inline-block;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-body {
+  margin-top: -20px;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-pesan {
+  text-align: center;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-pesan .btn-pesan-bus {
+  background-color: rgba(255, 0, 0, 0.671);
+  color: white;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-pesan .btn-detail-bus {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.daftar-bus .daftar-bus-content .card-detail-bus .card-pesan a:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.top-bar-homestay {
+  height: 70px;
+  line-height: 70px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 25px;
+  background-color: #01dada;
+  color: white;
+}
+
+.homestay {
+  margin-top: 30px;
+}
+
+.homestay .homestay-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+  letter-spacing: 4px;
+}
+
+.homestay .homestay-heading h4 {
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.homestay .homestay-content {
+  margin-top: 30px;
+}
+
+.homestay .homestay-content .card-homestay {
+  border: 1px solid #64a4e0;
+  margin-top: 20px;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body {
+  padding: 15px 20px;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-title {
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-title h4 {
+  color: #64a4e0;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-body i {
+  color: #64a4e0;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-harga h4 {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-harga p {
+  color: red;
+}
+
+.homestay .homestay-content .card-homestay .card-homestay-body .homestay-deal a:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.tour-guide {
+  margin-top: 30px;
+}
+
+.tour-guide .tour-guide-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.tour-guide .tour-guide-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.tour-guide .tour-guide-content {
+  margin-top: 45px;
+}
+
+.tour-guide .tour-guide-content a {
+  margin-top: 20px;
+  background-color: #64a4e0;
+  color: white !important;
+}
+
+.tour-guide .tour-guide-content a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.jasa-sopir {
+  margin-top: 30px;
+}
+
+.jasa-sopir .jasa-sopir-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.jasa-sopir .jasa-sopir-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.jasa-sopir .jasa-sopir-content {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.jasa-sopir .jasa-sopir-content table {
+  margin-top: 20px;
+}
+
+.jasa-sopir .jasa-sopir-content a {
+  margin-top: 20px;
+  background-color: #64a4e0;
+  color: white !important;
+}
+
+.jasa-sopir .jasa-sopir-content a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.transport-bandara {
+  margin-top: 30px;
+}
+
+.transport-bandara .transport-bandara-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.transport-bandara .transport-bandara-content .card-transport-bandara {
+  border: 2px solid #64a4e0;
+  padding: 0px 5px;
+}
+
+.transport-bandara .transport-bandara-content .card-transport-bandara .card-body a {
+  background-color: #64a4e0;
+  color: white !important;
+}
+
+.transport-bandara .transport-bandara-content .card-transport-bandara .card-body a:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+}
+
+.jasa-angkut-jogja {
+  margin-top: 40px;
+}
+
+.jasa-angkut-jogja .jasa-angkut-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.jasa-angkut-jogja .jasa-angkut-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.jasa-angkut-jogja .jasa-angkut-content {
+  margin-top: 30px;
+}
+
+.jasa-angkut-jogja .jasa-angkut-content p {
+  font-size: 20px;
+}
+
+.jasa-angkut-jogja .jasa-angkut-content .item-kendaraan h6 {
+  margin-top: 10px;
+}
+
+.jasa-angkut-jogja .jasa-angkut-content .item-kendaraan a {
+  margin-top: 10px;
+  background-color: #64a4e0;
+  color: white;
+  padding: 10px 20px;
+}
+
+.jasa-angkut-jogja .jasa-angkut-content .item-kendaraan a:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.wedding-car-modern .wedding-car-heading {
+  margin-bottom: 40px;
+}
+
+.wedding-car-modern .wedding-car-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #f82ca3;
+}
+
+.wedding-car-modern .wedding-car-content {
+  margin-top: -20px;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car {
+  margin-top: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+  border: 2px solid #f82ca3;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-title {
+  margin-top: 10px;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-title h4 {
+  font-weight: bold;
+  color: #f82ca3;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-body {
+  padding: 5px 5px;
+  margin-top: -10px;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-body h5 {
+  border-bottom: 1px solid #f82ca3;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-body a {
+  background-color: #f82ca3;
+  color: white;
+  display: inline-block;
+}
+
+.wedding-car-modern .wedding-car-content .card-wedding-car .card-body a:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.markijal {
+  margin-top: 50px;
+}
+
+.markijal .markijal-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.markijal .markijal-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.markijal .markijal-content {
+  margin-top: 40px;
+}
+
+.markijal .markijal-content p,
+.markijal .markijal-content ul {
+  font-size: 18px;
+}
+
+.markijal .markijal-content tr:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.markijal .markijal-content .tujuan {
+  font-size: 13px;
+}
+
+.pesan-homestay {
+  margin-top: 50px;
+}
+
+.pesan-homestay .pesan-homestay-heading {
+  font-family: "Barlow Condensed", sans-serif;
+  text-align: center;
+}
+
+.pesan-homestay .pesan-homestay-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.pesan-homestay .pesan-homestay-content {
+  margin-top: 40px;
+}
+
+.pesan-homestay .pesan-homestay-content .card-pesan-homestay {
+  border: 2px solid #64a4e0;
+}
+
+.pesan-homestay .pesan-homestay-content .card-pesan-homestay .gallery .xzoom-container {
+  display: block;
+}
+
+.pesan-homestay .pesan-homestay-content .card-pesan-homestay .gallery .xzoom-container .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.pesan-homestay .pesan-homestay-content .card-pesan-homestay .gallery .xzoom-container .xactive {
+  border: 4px solid #64a4e0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay {
+  border: 2px solid #64a4e0;
+  padding: 20px 15px;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay .homestay-title {
+  font-weight: bold;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay .homestay-title h2 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay .homestay-body i {
+  color: #64a4e0;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay .homestay-harga h4 {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-homestay .pesan-homestay-content .detail-homestay .homestay-harga p {
+  color: red;
+}
+
+.homestay-lain {
+  margin-top: 40px;
+}
+
+.homestay-lain .homestay-lain-content .card-homestay-lain {
+  margin-top: 10px;
+}
+
+.homestay-lain .homestay-lain-content .card-homestay-lain .card-title {
+  padding: 10px 10px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.homestay-lain .homestay-lain-content .card-homestay-lain .card-title h3 {
+  color: #64a4e0;
+}
+
+.homestay-lain .homestay-lain-content .card-homestay-lain .card-title .jarak-homestay {
+  font-size: 15px;
+}
+
+.homestay-lain .homestay-lain-content .card-homestay-lain .card-title del {
+  color: red;
+}
+
+.biro {
+  margin-top: 30px;
+}
+
+.biro .biro-heading {
+  text-align: center;
+}
+
+.biro .biro-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.biro .penunjang .btn-pesan-biro {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.biro .penunjang a:hover {
+  -webkit-transform: scale(1.06);
+          transform: scale(1.06);
+}
+
+.top-bar-yogya {
+  background-color: #569e04;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top-bar-yogya .kontak {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.top-bar-yogya .sosmed {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.pilih-paket-wisata-bali {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pilih-paket-wisata-bali h3 {
+  font-weight: bold;
+  border-bottom: 2px solid #64a4e0;
+  color: #64a4e0;
+}
+
+.pilih-paket-wisata-bali p {
+  font-size: 18px;
+}
+
+.pilih-paket-wisata-bali img {
+  margin-bottom: 20px;
+}
+
+.pilih-paket-wisata-bali img:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.paket-wisata-bali {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata-bali .heading h3 {
+  border-bottom: 2px solid #64a4e0;
+}
+
+.paket-wisata-bali .content .card-detail {
+  margin-bottom: 20px;
+  border: 2px solid #64a4e0;
+  padding: 10px 8px;
+}
+
+.paket-wisata-bali .content .card-detail h4 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.paket-wisata-bali .content .card-detail .destinasi {
+  font-size: 18px;
+  font-weight: bold;
+  color: #dd5757;
+}
+
+.paket-wisata-bali .content .card-detail .btn-lihat {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.paket-wisata-bali .content .card-detail .btn-lihat:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  opacity: 0.7;
+}
+
+.wisata-favorit {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.wisata-favorit .heading {
+  margin-bottom: 30px;
+}
+
+.wisata-favorit .heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.wisata-favorit .heading h3 {
+  border-bottom: 2px solid #64a4e0;
+}
+
+.wisata-favorit .content img {
+  border-radius: 4px;
+  -webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+          box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-heading {
+  margin-bottom: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-heading .wisata-mandiri a:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-heading .wisata-mandiri {
+  border: 2px solid #64a4e0;
+  border-radius: 10px;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-heading .wisata-mandiri .btn-wisata-mandiri {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .btn-bali {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .btn-bali:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  opacity: 0.8;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content h3 {
+  margin-bottom: 10px;
+  font-family: "Barlow Condensed", sans-serif;
+  border-bottom: 2px solid #64a4e0;
+  display: inline-block;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja {
+  border: 2px solid #64a4e0;
+  min-height: 670px;
+  margin: 20px 0px;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja a {
+  text-decoration: none;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body {
+  padding: 10px 5px;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body h5 {
+  text-align: center;
+  color: #64a4e0;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .destinasi-heading {
+  border-bottom: 2px solid #64a4e0;
+  display: inline-block;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .destinasi-item {
+  margin-top: -10px;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .destinasi-item ul {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .destinasi-item ul .hari {
+  color: maroon;
+  font-weight: bold;
+  border: 1px solid red;
+  padding: 3px 5px;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .destinasi-item ul h6 {
+  font-weight: bold;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .btn-destinasi .btn-pesan {
+  background-color: #64a4e0 !important;
+  color: white;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .btn-destinasi .btn-detail {
+  background-color: #ff5c5c !important;
+  color: white;
+}
+
+.paket-wisata-yogya .paket-wisata-jogja-content .card-wisata-jogja .card-body .btn-destinasi a:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+}
+
+.pesan-wisata .pesan-wisata-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-wisata .pesan-wisata-heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.pesan-wisata .pesan-wisata-content .destinasi h5 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #64a4e0 !important;
+}
+
+.pesan-wisata .pesan-wisata-content .destinasi img {
+  border-radius: 10px;
+}
+
+.pesan-wisata .pesan-wisata-content .destinasi p {
+  margin-top: 10px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket img {
+  margin-bottom: 20px;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket img:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket h5 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #64a4e0 !important;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket p {
+  font-size: 20px;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket .ket {
+  font-size: 18px;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket .card-pilihan-paket {
+  margin-bottom: 20px;
+  border: 2px solid #64a4e0;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket .card-pilihan-paket .card-body .data-kendaraan {
+  padding: 0px 0px;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket .card-pilihan-paket .card-body .data-kendaraan h6 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.pesan-wisata .pesan-wisata-content .pilihan-paket .card-pilihan-paket .card-body .card-pilihan-paket-button a {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.opentrip .open-trip-heading {
+  margin-top: 40px;
+}
+
+.opentrip .open-trip-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.opentrip .open-trip-content {
+  margin-top: 50px;
+}
+
+.opentrip .open-trip-content .card-open-trip {
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  height: 380px;
+  background-size: cover;
+}
+
+.opentrip .open-trip-content .card-open-trip h6 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.opentrip .open-trip-content .card-open-trip p {
+  color: white;
+}
+
+.opentrip .open-trip-content .card-open-trip .btn-detail {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.opentrip .open-trip-content .card-open-trip .btn-detail:hover {
+  opacity: 0.7;
+}
+
+.breadcrumb {
+  background-color: white;
+}
+
+.paket-opentrip .card-paket-opentrip {
+  min-height: 850px;
+  border: 2px solid #64a4e0;
+  padding: 10px 20px;
+}
+
+.paket-opentrip .card-paket-opentrip h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.paket-opentrip .card-paket-opentrip h6 {
+  color: grey;
+}
+
+.paket-opentrip .card-paket-opentrip .gallery .xzoom-container {
+  display: block;
+}
+
+.paket-opentrip .card-paket-opentrip .gallery .xzoom-container img {
+  border-radius: 5px;
+}
+
+.paket-opentrip .card-paket-opentrip .gallery .xzoom-container .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.paket-opentrip .card-paket-opentrip .gallery .xzoom-container .xactive {
+  border: 2px solid #64a4e0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.paket-opentrip .card-trip-information {
+  min-height: 850px;
+  padding: 10px 10px;
+  border: 2px solid #64a4e0;
+}
+
+.paket-opentrip .card-trip-information h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.paket-opentrip .card-trip-information h6 {
+  color: grey;
+}
+
+.paket-opentrip .card-trip-information .btn-pesan-open-trip {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.paket-opentrip .card-trip-information .btn-pesan-open-trip:hover {
+  opacity: 0.6;
+}
+
+.sukses-open-trip h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #01dada;
+}
+
+.galeri .galeri-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.galeri .galeri-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.galeri .galeri-content .card-galery {
+  border: none;
+}
+
+.galeri .galeri-content .card-galery a:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+
+.galeri-detail .heading {
+  margin-bottom: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.galeri-detail .heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.galeri-detail .card-galeri-detail {
+  border: 2px solid #64a4e0;
+  padding: 10px 15px;
+}
+
+.galeri-detail .card-galeri-detail h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.galeri-detail .card-galeri-detail h6 {
+  color: grey;
+}
+
+.galeri-detail .card-galeri-detail .gallery .xzoom-container {
+  display: block;
+}
+
+.galeri-detail .card-galeri-detail .gallery .xzoom-container img {
+  border-radius: 5px;
+}
+
+.galeri-detail .card-galeri-detail .gallery .xzoom-container .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.galeri-detail .card-galeri-detail .gallery .xzoom-container .xactive {
+  border: 2px solid #1abc9c;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.galeri-detail .card-galeri-detail .sosmed {
+  font-size: 20px;
+}
+
+.galeri-detail .card-galeri-detail .sosmed .instagram {
+  color: #d3116c !important;
+}
+
+.galeri-detail .card-galeri-detail .sosmed .facebook {
+  color: #474ae7 !important;
+}
+
+.galeri-detail .card-galeri-detail .sosmed .yb {
+  color: red !important;
+}
+
+.galeri-detail .galeri-lain .media .media-body .deskripsi {
+  font-size: 13px;
+}
+
+.destinasi-wisata {
+  padding: 0px 10px;
+}
+
+.destinasi-wisata .destinasi-wisata-heading {
+  margin-bottom: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.destinasi-wisata .destinasi-wisata-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.destinasi-wisata .sidebar-kiri .media .media-body h6 {
+  color: #b40c14;
+}
+
+.destinasi-wisata .sidebar-kiri .media .media-body .deskripsi {
+  font-size: 12px;
+}
+
+.destinasi-wisata .content-utama .card-destinasi-wisata a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.destinasi-wisata .sidebar-kanan .card-kota {
+  background-size: cover;
+  margin-top: 10px;
+  color: white;
+  padding: 5px 2px;
+}
+
+.destinasi-wisata .sidebar-kanan .card-kota p {
+  font-size: 11px;
+}
+
+.destinasi-wisata .sidebar-kanan .card-kota:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.destinasi-wisata .card-detail-destinasi {
+  border: 2px solid maroon;
+  padding: 10px 10px;
+}
+
+.destinasi-wisata .card-detail-destinasi h4 {
+  color: maroon;
+}
+
+.destinasi-wisata .card-detail-destinasi p {
+  color: grey;
+}
+
+.destinasi-wisata .card-detail-destinasi .gallery .xzoom-container {
+  display: block;
+}
+
+.destinasi-wisata .card-detail-destinasi .gallery .xzoom-container .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.destinasi-wisata .card-detail-destinasi .gallery .xzoom-container .xactive {
+  border: 4px solid #1abc9c;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.merapi {
+  margin-top: 30px;
+}
+
+.merapi .merapi-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.merapi .merapi-heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.merapi .merapi-item {
+  margin-top: 50px;
+}
+
+.merapi .merapi-item img {
+  border-radius: 7px;
+}
+
+.merapi .merapi-item img:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  -webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+          box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+.merapi .merapi-item h6 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.merapi .merapi-content {
+  margin-top: 50px;
+}
+
+.merapi .merapi-content .card-merapi {
+  margin-top: 20px;
+  min-height: 550px;
+  padding: 10px 10px;
+  border: 2px solid #64a4e0;
+}
+
+.merapi .merapi-content .card-merapi h4 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.merapi .merapi-content .card-merapi .durasi {
+  font-weight: bold;
+  color: #64a4e0;
+  font-size: 17px;
+}
+
+.merapi .merapi-content .card-merapi .harga .harga-detail {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: #013697;
+}
+
+.merapi .merapi-content .card-merapi .card-pesan .btn-pesan {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.tour-kuda {
+  margin-top: 30px;
+}
+
+.tour-kuda .kuda-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.tour-kuda .kuda-heading h1,
+.tour-kuda .kuda-heading h4 {
+  font-weight: bold;
+}
+
+.tour-kuda .kuda-heading h1 {
+  color: #64a4e0;
+}
+
+.tour-kuda .kuda-heading h4 .depan {
+  color: red;
+}
+
+.tour-kuda .kuda-heading h4 .belakang {
+  color: #4299fd;
+}
+
+.tour-kuda .kuda-content {
+  margin-top: 30px;
+}
+
+.tour-kuda .galeri-kuda img {
+  border-radius: 5px;
+}
+
+.tour-kuda .galeri-kuda img:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+  -webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.4);
+          box-shadow: 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.tour-kuda .paket-wisata .card-wisata {
+  margin-top: 20px;
+  padding: 10px 10px;
+  border: 2px solid #013697;
+}
+
+.tour-kuda .paket-wisata .card-wisata .harga .btn-pesan {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.wisata-kuliner .kuliner-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.wisata-kuliner .kuliner-heading h1 {
+  color: #d43434;
+  font-weight: bold;
+}
+
+.wisata-kuliner .kuliner-heading p {
+  font-size: 20px;
+}
+
+.wisata-kuliner .content {
+  margin-top: 50px;
+}
+
+.wisata-kuliner .content h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.wisata-kuliner .kuliner-content .card-kuliner,
+.wisata-kuliner .kuliner-content img {
+  border-radius: 10px;
+  border: none !important;
+}
+
+.wisata-kuliner .kuliner-content .card-kuliner {
+  margin-top: 20px;
+}
+
+.wisata-kuliner .kuliner-content .card-kuliner h5 {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.wisata-kuliner .kuliner-content h4 {
+  margin-top: 30px;
+  border-bottom: 1px solid red;
+}
+
+.top-bar-kuliner {
+  background-color: #d43434;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top-bar-kuliner .kontak {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.top-bar-kuliner .sosmed {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.bisnis-kami .bisnis-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.bisnis-kami .bisnis-content .card-bisnis {
+  min-height: 500px;
+  background-size: cover;
+}
+
+.bisnis-kami .bisnis-content .card-bisnis a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  -webkit-box-shadow: 2px 2px rgba(0, 0, 0, 0.4);
+          box-shadow: 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.bisnis-kami .bisnis-content .card-bisnis:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.4);
+          box-shadow: 5px 5px rgba(0, 0, 0, 0.4);
+}
+
+.nama {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.nama h1,
+.nama h3 {
+  font-weight: bold;
+}
+
+.nama h1 {
+  font-size: 55px;
+}
+
+.nama h1 .depan {
+  color: #64a4e0;
+}
+
+.nama h1 .belakang {
+  color: red;
+}
+
+.nama h3 {
+  letter-spacing: 3px;
+}
+
+.nama h3 .belakang {
+  color: red;
+}
+
+.stnk {
+  margin-top: 40px;
+}
+
+.stnk .heading h2 {
+  font-weight: bold;
+  color: #64a4e0;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.stnk .heading .klik u {
+  color: #64a4e0;
+}
+
+.stnk .heading .klik a:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.stnk .content {
+  margin-top: 50px;
+}
+
+.stnk .content img {
+  border-radius: 10px;
+}
+
+.stnk .content img:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.kursus .heading h3 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.kursus .heading h6 .mudah {
+  color: red;
+}
+
+.kursus .heading h6 .senang {
+  color: #64a4e0;
+}
+
+.kursus .content {
+  font-family: "Barlow Condensed", sans-serif;
+  background-color: #64a4e0;
+  margin-top: 50px;
+  padding: 40px 0px;
+}
+
+.kursus .content h2 {
+  font-size: 44px;
+  font-weight: bold;
+}
+
+.kursus .content p {
+  margin-top: 30px;
+  font-size: 20px;
+  color: white;
+}
+
+.kursus .content a {
+  background-color: #64a4e0;
+  border: 2px solid;
+}
+
+.kursus .content a:hover {
+  background-color: white;
+  border: 2px solid white;
+}
+
+.kursus .mengapa {
+  margin-top: 20px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.kursus .mengapa .heading {
+  margin-bottom: 25px;
+}
+
+.kursus .mengapa .heading h4 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #64a4e0;
+}
+
+.kursus .mengapa .conten .item .ikon {
+  color: #64a4e0;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+.kursus .mengapa .conten .item .deskripsi h5 {
+  font-weight: bold;
+}
+
+.kursus .mengapa .conten .item .deskripsi p {
+  text-align: justify;
+}
+
+.harga-paket {
+  margin-bottom: 40px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.harga-paket .heading .judul {
+  font-weight: bold;
+}
+
+.harga-paket .heading h4 {
+  font-weight: bold;
+}
+
+.harga-paket .heading h4 .depan {
+  color: #64a4e0;
+  margin-right: 5px;
+}
+
+.harga-paket .heading h4 .belakang {
+  color: red;
+}
+
+.harga-paket .content {
+  margin-top: 30px;
+}
+
+.harga-paket .content .item {
+  margin-top: 20px;
+}
+
+.harga-paket .content .item h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.harga-paket .content .item .accordion .card .card-body .btn-pesan {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.harga-paket .content .item .accordion .card button {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.rafting {
+  margin-top: 30px;
+}
+
+.rafting .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.rafting .heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.rafting .heading h5 {
+  font-weight: bold;
+}
+
+.manfaat-rafting {
+  margin-top: 30px;
+}
+
+.manfaat-rafting .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.manfaat-rafting .heading h2,
+.manfaat-rafting .heading h5 {
+  font-weight: bold;
+}
+
+.manfaat-rafting .heading h2 {
+  color: #da0101;
+}
+
+.manfaat-rafting .content .galeri img {
+  margin-top: 10px;
+}
+
+.manfaat-rafting .content .manfaat {
+  margin-top: 30px;
+}
+
+.manfaat-rafting .content .manfaat h4,
+.manfaat-rafting .content .manfaat h6 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+}
+
+.manfaat-rafting .content .manfaat h6 {
+  color: #01a7da;
+  font-size: 20px;
+}
+
+.manfaat-rafting .content .manfaat p {
+  text-align: justify;
+}
+
+.kenapa {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.kenapa .heading {
+  margin-bottom: 30px;
+}
+
+.kenapa .heading h2 {
+  font-weight: bold;
+  color: #da0101;
+}
+
+.kenapa .content .item .ikon {
+  font-size: 40px;
+  color: #01a7da;
+  margin-right: 15px;
+}
+
+.kenapa .content .item .detail h5 {
+  font-weight: bold;
+  color: black;
+}
+
+.harga-paket-rafting {
+  margin-top: 30px;
+}
+
+.harga-paket-rafting .heading {
+  margin-bottom: 30px;
+}
+
+.harga-paket-rafting .heading h2 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: red;
+}
+
+.harga-paket-rafting .content .card-harga-rafting {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .nama-rafting {
+  margin-top: 15px;
+  font-family: "Barlow Condensed", sans-serif;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .rafting-only {
+  padding-top: 10px;
+  background-color: #61696e;
+  color: white;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .rafting-mobil {
+  padding-top: 10px;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .rafting-sopir {
+  padding-top: 10px;
+  color: white;
+  background-color: #43bdf5;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .lihat-detail .btn-detail {
+  background-color: #61696e;
+  color: white;
+}
+
+.harga-paket-rafting .content .card-harga-rafting .lihat-detail .btn-detail:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.camping-item {
+  margin-top: 40px;
+}
+
+.camping-item .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.camping-item .heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.camping-item .content {
+  margin-top: 40px;
+}
+
+.camping-deskripsi {
+  margin-top: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.camping-deskripsi h4 {
+  font-weight: bold;
+}
+
+.camping-deskripsi h5 {
+  margin-top: 20px;
+  font-weight: bold;
+  border-bottom: 2px solid #64a4e0;
+}
+
+.camping-deskripsi li,
+.camping-deskripsi table,
+.camping-deskripsi p {
+  font-size: 17px;
+}
+
+.camping-deskripsi .btn-pesan-camping {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.camping-deskripsi .btn-pesan-camping:hover {
+  opacity: 0.8;
+}
+
+.terbang .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.terbang .heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.terbang .content {
+  margin-top: 30px;
+}
+
+.terbang .content img {
+  border-radius: 10px;
+}
+
+.harga-paket-terbang {
+  margin-top: 35px;
+}
+
+.harga-paket-terbang .heading {
+  margin-bottom: 20px;
+}
+
+.harga-paket-terbang .heading h3 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.harga-paket-terbang .content .btn-pesan {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.harga-paket-terbang .selamat-terbang h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.camping {
+  margin-top: 40px;
+}
+
+.camping .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.camping .heading h1 {
+  color: #64a4e0;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+.camping .content {
+  margin-top: 30px;
+}
+
+.camping .content img {
+  border-radius: 10px;
+}
+
+.camping .content img:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  -webkit-box-shadow: 5px 5px rgba(31, 18, 18, 0.4);
+          box-shadow: 5px 5px rgba(31, 18, 18, 0.4);
+}
+
+.rafting-elo .heading h4 {
+  font-weight: bold;
+}
+
+.rafting-elo .content .deskripsi h6 {
+  border-bottom: 2px solid #64a4e0;
+}
+
+.rafting-elo .content .detail-harga-paket .btn-pesan {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.rafting-elo .content .detail-harga-paket h6 {
+  border-bottom: 2px solid #64a4e0;
+}
+
+.rancang-bangun .rancang-heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.rancang-bangun .rancang-heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.rancang-bangun .rancang-content {
+  margin-top: 30px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.rancang-bangun h3 {
+  font-weight: bold;
+  color: red;
+}
+
+.rancang-bangun p {
+  font-size: 18px;
+}
+
+.layanan-rancang {
+  margin-top: 40px;
+}
+
+.layanan-rancang .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.layanan-rancang .heading h3 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.layanan-rancang .content .card-detail {
+  margin-top: 30px;
+}
+
+.layanan-rancang .content .card-detail img,
+.layanan-rancang .content .card-detail h5 {
+  margin-bottom: 15px;
+}
+
+.layanan-rancang .content .card-detail .btn-detail {
+  background-color: #64a4e0;
+  color: white;
+  font-size: 13px;
+}
+
+.layanan-rancang .content .card-detail .btn-detail:hover {
+  opacity: 0.8;
+}
+
+.rancang-bangun-detail .rancang-heading h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.rancang-bangun-detail .rancang-heading h4,
+.rancang-bangun-detail .rancang-heading h3,
+.rancang-bangun-detail .rancang-heading h5 {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.galeri-rancang-bangun .card-detail {
+  border: none;
+  margin-top: 30px;
+}
+
+.galeri-rancang-bangun .card-detail .btn-detail {
+  background-color: #64a4e0;
+  color: white;
+  font-size: 13px;
+}
+
+.galeri-rancang-bangun .card-detail .btn-detail:hover {
+  opacity: 0.8;
+}
+
+.web {
+  margin-top: 30px;
+}
+
+.web .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.web .heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.web .content {
+  margin-top: 40px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.web .content h3 {
+  font-weight: bold;
+}
+
+.top-bar-wedding-singer {
+  background-color: #660d0d;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top-bar-wedding-singer .kontak {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.top-bar-wedding-singer .sosmed {
+  font-family: "Barlow Condensed", sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nama-wedding-singer {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.nama-wedding-singer h1 {
+  font-weight: bold;
+  color: #660d0d;
+}
+
+.nama-wedding-singer h3 {
+  font-weight: bold;
+  color: #a78f09;
+}
+
+.wedding-singer-content .cek {
+  margin-top: -50px;
+  margin-bottom: 10px;
+}
+
+.wedding-singer-content .cek .btn-cek {
+  background-color: #660d0d;
+  color: white;
+}
+
+.wedding-singer-content .cek .btn-cek:hover {
+  opacity: 0.8;
+}
+
+.harga-paket-wedding-singer {
+  padding: 0px 60px;
+  margin-top: 40px;
+}
+
+.harga-paket-wedding-singer h3 {
+  margin-top: 40px;
+  font-weight: bold;
+  color: #660d0d;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.harga-paket-wedding-singer .pesan .btn-pesan {
+  background-color: #660d0d;
+  color: white;
+}
+
+.harga-paket-wedding-singer .pesan .btn-pesan:hover {
+  -webkit-transform: scale(1.04);
+          transform: scale(1.04);
+  -webkit-box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+          box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+}
+
+.harga-paket-wedding-singer .juta {
+  font-size: 13px;
+}
+
+.video-nws {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.video-nws .heading h3 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #660d0d;
+}
+
+.video-nws .embed-responsive {
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 2px solid #660d0d;
+  -webkit-box-shadow: 4px 4px rgba(0, 0, 0, 0.4);
+          box-shadow: 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.syarat-dan-ketentuan-nws .heading h2 {
+  margin-top: 40px;
+  font-weight: bold;
+  color: #660d0d;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.syarat-dan-ketentuan-nws .content {
+  padding: 30px 30px;
+  background-color: rgba(243, 243, 243, 0.4);
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.syarat-dan-ketentuan-nws .content h4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #660d0d;
+}
+
+.nws-lainnya {
+  padding: 40px 0px;
+  background-color: rgba(102, 13, 13, 0.048);
+}
+
+.nws-lainnya .heading h3 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: bold;
+  color: #660d0d;
+}
+
+.nws-lainnya .content .card-lainnya {
+  border: 2px solid #660d0d;
+}
+
+.nws-lainnya .content .card-lainnya h5 {
+  margin-top: 7px;
+  color: #660d0d;
+  font-weight: bold;
+}
+
+.nws-lainnya .content .card-lainnya .btn-lainnya {
+  background-color: #660d0d;
+  color: white;
+}
+
+.nws-lainnya .content .card-lainnya .btn-lainnya:hover {
+  opacity: 0.8;
+}
+
+.info-rental-jogja {
+  margin-top: 40px;
+}
+
+.info-rental-jogja .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.info-rental-jogja .heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.info-rental-jogja .content {
+  margin-top: 40px;
+}
+
+.info-rental-jogja .content .card-detail-rental {
+  border: 2px solid #64a4e0;
+}
+
+.info-rental-jogja .content .card-detail-rental .card-body .judul {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.info-rental-jogja .content .card-detail-rental .card-body .alamat {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.info-rental-jogja .content .card-detail-rental .card-body .kendaraan {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.info-rental-jogja .content .card-detail-rental .card-body .telepon {
+  color: #64a4e0;
+  font-weight: bold;
+}
+
+.info-rental-jogja .content .card-detail-rental .card-body .telepon i {
+  font-weight: bold;
+}
+
+.info-travel {
+  margin-top: 40px;
+}
+
+.info-travel .heading {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.info-travel .heading h1 {
+  font-weight: bold;
+  color: #64a4e0;
+}
+
+.info-travel .heading .btn-penumpang {
+  background-color: #64a4e0;
+  color: white;
+}
+
+.info-travel .heading .btn-pengemudi {
+  color: white;
+  background-color: red;
+}
+/*# sourceMappingURL=main.css.map */
